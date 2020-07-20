@@ -10,7 +10,7 @@ from elastichq.utils import find_config
 default_host = '0.0.0.0'
 default_port = 5000
 default_debug = False
-default_enable_ssl = False
+default_enable_ssl = True
 default_ca_certs = None
 default_verify_certs = True
 default_client_key = None
